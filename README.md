@@ -8,57 +8,39 @@
 - 📍 Currently base at: Palermo ☀️ Sicily 🌊 Italy 🍝
 
 <h3 align="left">Connect with me:</h3>
-  <a href="www.linkedin.com/in/alessandro-f-castelli-5baa3a236"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/alessandro-f-castelli-5baa3a236/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/_alex_castel_/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="mailto:alessandrofrancescocastelli@outlook.it"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
-</p>
-<br>
+</p><br>
+
 <h3 align="left">Languages and Tools:</h3>
 
-
-
 <p align="center">
+<a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=FF5E00&labelColor=FFFFFF&color=FF5E00'/></a>
+<a href='#' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=0066FF&labelColor=FFFFFF&color=0066FF'/></a>
+<a href='#' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=E4DC00&labelColor=FFFFFF&color=E4DC00'/></a>
 <a href="#"><img src="https://img.shields.io/badge/Typescript-00AEFF.svg?style=for-the-badge&logo=typescript&logoColor=0768a8&labelColor=ffffff" alt="typescript"></a>
-<a href='#' target="_blank"><img alt='Node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=Node.js&logoColor=21AD0E&labelColor=FFFFFF&color=21AD0E'/></a>
-<a href="#"><img src="https://img.shields.io/badge/JS-FFF700.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-<a href="#"><img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>
-<a href="#"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
-<a href="#"><img src="https://img.shields.io/badge/scala-red.svg?style=for-the-badge&logo=scala&logoColor=red&labelColor=ffffff" alt="scala"></a>
 </p><br>
 
 <p align="center">					    
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a>
+<a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="#"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"></a>
 </p><br>
 
 <p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+<a href='#' target="_blank"><img alt='Node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=Node.js&logoColor=21AD0E&labelColor=FFFFFF&color=21AD0E'/></a>
+<a href="#"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+<a href="#"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
 </p><br>
 
 <p align="center">
-<a href="https://github.com/priyanshumay">
-<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
-</a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
+<a href="#"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
+<a href="#"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 </p><br>
 
 <p align="center">
-<a href="https://github.com/priyanshumay">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
-</a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-
+<a href="#"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
+<a href="#"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p><br>
 
 <p align="center">
