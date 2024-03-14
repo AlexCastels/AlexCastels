@@ -32,6 +32,7 @@
 <a href='#' target="_blank"><img alt='express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFFFFF&color=E7E7E7'/></a>
 <a href="#"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
 <a href="#"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+<a href='#' target="_blank"><img alt='postgreSQL' src='https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=postgreSQL&logoColor=0066FF&labelColor=FFFFFF&color=0161D7'/></a>
 </p><br>
 
 <p align="center">
