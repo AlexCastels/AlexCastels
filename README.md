@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alessandrofrancescocastelli@outlook.it**
 
-- 📍Currently base at: Palermo ☀️ Sicily 🌊 Italy 🍝
+- 📍Currently based in Palermo ☀️ Sicily 🌊 Italy 🍝
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/alessandro-f-castelli-5baa3a236/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
