@@ -24,6 +24,7 @@
 
 <p align="center">					    
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="#"><img src="https://img.shields.io/badge/nextjs-2e3436.svg?style=for-the-badge&logo=next.js&logoColor=2e3436&labelColor=ffffff" alt="nextjs"></a>
 <a href="#"><img src="https://img.shields.io/badge/SASS-100000?style=for-the-badge&logo=SASS&logoColor=76232F&labelColor=FFFFFF&color=76232F" alt="sass"></a>
 </p><br>
 
