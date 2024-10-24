@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">A passionate front and back-end developer from Italy!</h3><img align="right" width='450px' alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<h1 align="center">Hi 👋🏻, I'm Alessandro</h1>
+<h3 align="center">A passionate full-stack developer from Italy!</h3><img align="right" width='450px' alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 - 🌱 I’m currently learning **Front-end and back Technologies**
 
